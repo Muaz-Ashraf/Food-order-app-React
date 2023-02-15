@@ -4,7 +4,12 @@
   left: 0;
   width: 100%;
   height: 7rem;
-  background-color: #8a2b06;
+  background: rgb(219, 37, 37);
+  background: linear-gradient(
+    90deg,
+    rgba(219, 37, 37, 1) 0%,
+    rgba(89, 44, 44, 1) 100%
+  );
   color: white;
   display: flex;
   flex-direction: row;
