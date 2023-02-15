@@ -5,7 +5,7 @@
   margin: auto;
   margin-top: -10rem;
   position: relative;
-  background: linear-gradient(#8f2929, rgb(125, 41, 125));
+  background: linear-gradient(rgb(125, 41, 125) 10%, #e75480 100%);
   color: white;
   border-radius: 14px;
   padding: 1rem;
